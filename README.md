@@ -4,7 +4,7 @@
 
 ##### 1, 数据类型
 
-​	*基本数据类型：byte(8bits)   short(16bits)   int(43bits)   long(64bits)   float(32bits)   double(64bits)  char(16bits)   boolean
+​	*基本数据类型：byte(8bits)   short(16bits)   int(43bits)   long(64bits)   float(32bits)   double(64bits)  char(16bits)   boolean。
 
 ​	char string 用unicode编码格式(双字节编码) -可表示字母 汉字 日文等  
 
